@@ -1,0 +1,12 @@
+name: europop
+title: europop
+username:
+account: jgrave
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 247163
+bundleId: 1128259
+url: https://jgrave.shinyapps.io/europop/
+when: 1513007026.04203
+asMultiple: FALSE
+asStatic: FALSE
